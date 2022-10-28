@@ -18,4 +18,3 @@
  yarn build
  yarn --cwd ~/ironfish/ironfish-cli/ ironfish config:set blockGraffiti r00tVV
  yarn --cwd ~/ironfish/ironfish-cli/ ironfish config:set enableTelemetry true
- yarn start miners:start -t -1 --pool pool.ironfish.host --address 6fcace7239573d0bf49ae0a6bfe12fe9356fa0f02784ccd03a9b501130c88d7d38a13a788083069fa677a7 --no-richOutput -v 
