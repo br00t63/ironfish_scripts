@@ -1,7 +1,7 @@
 #!bin/bash
 
+ cd $HOME
  sudo apt update && sudo apt upgrade -y
- cd ..
  sudo rm -r ironfish
  git clone https://github.com/iron-fish/ironfish.git
  cd ironfish
